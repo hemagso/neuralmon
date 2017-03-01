@@ -1,2 +1,2 @@
 # neuralmon
-Machine learning project for Pokemon type identificationb using Neural Networks
+Machine learning project for Pokemon type identification using Neural Networks
